@@ -10,7 +10,7 @@
 
 - 📫 How to reach me *rakshithamani28@gmail.com*
 
-- ⚡ Fun fact *If I would code a mini-website in just one night, fueled by pizza and caffeine, proving that great ideas often come with a side of late-night snacks!*
+- ⚡ Fun fact: *If I would code a mini-website in just one night, fueled by pizza and caffeine, proving that great ideas often come with a side of late-night snacks!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
