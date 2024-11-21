@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there! I'm Rakshitha Mani </h1>
+<h2 align="center"> Hello there!🌟 I'm Rakshitha Mani </h2>
 <h3 align="center">A Beginners journey : Exploring the foundations of backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakshitha2228&label=Profile%20views&color=0e75b6&style=flat" alt="rakshitha2228" /> </p>
