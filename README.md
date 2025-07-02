@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshitha2228" alt="rakshitha2228" /></a> </p>
 
 -  💻🤖I’m specializing in a B. Tech field
-- 📂🔒learning *Java, sql, data structures and algorithms, git, etc.*
+- 📂🔒learning *Java, My sql, data structures and algorithms, git, etc.*
 
 - 📫 How to reach me *rakshithamani28@gmail.com*
 
