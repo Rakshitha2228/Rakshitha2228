@@ -6,16 +6,15 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakshitha2228" alt="rakshitha2228" /></a> </p>
 
 -  💻🤖I’m specializing in a B. Tech field
-- 📂🔒learning *Java, My sql, data structures and algorithms.*
+- 📂🔒in progress of tech stacks like  *Java, My sql, data structures and algorithms and other modern technologies*
 
 - 📫 How to reach me *rakshithamani28@gmail.com*
 
-- ⚡ Fun fact: *If I would code a mini-website in just one night, fueled by pizza and caffeine, proving that great ideas often come with a side of late-night snacks!*
+- ⚡ Fun fact: *If I would code a mini-website in just one night, fueled by frenchfries and caffeine, proving that great ideas often come with a side of late-night snacks!*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rakshitha mani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakshitha mani" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@rakshitha_230511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rakshitha_230511" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
